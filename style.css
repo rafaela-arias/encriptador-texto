@@ -45,7 +45,7 @@ main{
 /*Caja de encriptación*/
 .mensajeencriptado{
   background-color: white;
-  background-image: url("/images/Muñeco.png");
+  background-image: url("images/Muñeco.png");
   background-size: 70%;
   background-position: center;
   background-repeat: no-repeat;
